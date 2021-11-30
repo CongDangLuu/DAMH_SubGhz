@@ -1,0 +1,40 @@
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\bin\Debug\DHT11.exe.config
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\bin\Debug\DHT11.exe
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\bin\Debug\DHT11.pdb
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\obj\Debug\DHT11.csprojAssemblyReference.cache
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\obj\Debug\DHT11.Form1.resources
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\obj\Debug\DHT11.Properties.Resources.resources
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\obj\Debug\DHT11.csproj.GenerateResource.cache
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\obj\Debug\DHT11.csproj.CoreCompileInputs.cache
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\obj\Debug\DHT11.exe
+D:\BK\202\Do_an\A Visual Studio\New folder\DHT11\DHT11\obj\Debug\DHT11.pdb
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\bin\Debug\DHT11.exe.config
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\bin\Debug\DHT11.exe
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\bin\Debug\DHT11.pdb
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\obj\Debug\DHT11.csprojAssemblyReference.cache
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\obj\Debug\DHT11.Form1.resources
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\obj\Debug\DHT11.Properties.Resources.resources
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\obj\Debug\DHT11.csproj.GenerateResource.cache
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\obj\Debug\DHT11.csproj.CoreCompileInputs.cache
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\obj\Debug\DHT11.exe
+D:\BK\đồ án\Báo Cáo\code\Final_DHT11\DHT11\DHT11\obj\Debug\DHT11.pdb
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\bin\Debug\DHT11.exe.config
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\bin\Debug\DHT11.exe
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\bin\Debug\DHT11.pdb
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\obj\Debug\DHT11.csprojAssemblyReference.cache
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\obj\Debug\DHT11.Form1.resources
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\obj\Debug\DHT11.Properties.Resources.resources
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\obj\Debug\DHT11.csproj.GenerateResource.cache
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\obj\Debug\DHT11.csproj.CoreCompileInputs.cache
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\obj\Debug\DHT11.exe
+D:\BK\đồ án\Báo Cáo\code\Code DHT11\DHT11\DHT11\obj\Debug\DHT11.pdb
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\obj\Debug\DHT11.csprojAssemblyReference.cache
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\obj\Debug\DHT11.Form1.resources
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\obj\Debug\DHT11.Properties.Resources.resources
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\obj\Debug\DHT11.csproj.GenerateResource.cache
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\obj\Debug\DHT11.csproj.CoreCompileInputs.cache
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\obj\Debug\DHT11.exe
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\obj\Debug\DHT11.pdb
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\bin\Debug\DHT11.exe.config
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\bin\Debug\DHT11.exe
+D:\BK\đồ án\Báo Cáo\code\DHT11\DHT11 Visual Studio\DHT11\DHT11\bin\Debug\DHT11.pdb

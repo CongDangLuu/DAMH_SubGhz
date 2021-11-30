@@ -1,0 +1,40 @@
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe.config
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.pdb
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Form1.resources
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.exe
+C:\Users\ADMIN\Desktop\Visual\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.pdb
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe.config
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.pdb
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Form1.resources
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.exe
+C:\Users\ADMIN\Desktop\Visual\Project\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.pdb
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe.config
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.pdb
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csprojAssemblyReference.cache
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Form1.resources
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Properties.Resources.resources
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.GenerateResource.cache
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.CoreCompileInputs.cache
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.exe
+D:\BK\đồ án\Báo Cáo\code\send file TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.pdb
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe.config
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.exe
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\bin\Debug\Send_txt.pdb
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csprojAssemblyReference.cache
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Form1.resources
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.Properties.Resources.resources
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.GenerateResource.cache
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.csproj.CoreCompileInputs.cache
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.exe
+D:\BK\đồ án\Báo Cáo\code\Code send File TXT\Send_txt\Send_txt\Send_txt\obj\Debug\Send_txt.pdb

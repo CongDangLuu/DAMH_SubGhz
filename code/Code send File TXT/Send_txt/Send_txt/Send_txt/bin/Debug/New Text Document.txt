@@ -1,0 +1,13 @@
+The first thing you’ll notice about Windows 11 is that it includes a new Start menu and updated Start button that are both centered on the taskbar. This UI is very similar to what we first saw in Windows 10X, a project originally planned for dual-screen devices that Microsoft eventually canceled. A lot of the UI work that went into Windows 10X is appearing in Windows 11.
+
+The new Start menu drops the Live Tiles that were originally introduced with Windows 8 and opts for more of the typical launcher you’d find in Chrome OS or Android. There are apps, recent documents, and a separate search interface. Much of the centered appearance is clearly influenced by macOS and Chrome OS, and Windows 11 also includes the rounded corners we’ve seen in both Android and iOS.
+
+Windows chief Panos Panay says “the team has obsessed over every detail.” Windows 11 will also include updated dark and light modes that look a lot better than what we’ve seen in Windows today.
+
+There’s also something Microsoft is calling Snap Layouts, which allow you to quickly snap apps into the various modes that Windows 11 supports. This new version of Windows 11 will also remember where your apps are stored, thanks to something called Snap Groups.
+
+It looks like a useful way to support multiple monitors and ensure that apps always open on the correct screen. That’s particularly helpful if you’re using a laptop hooked up to a monitor or a traditional desktop machine with multiple displays.
+
+Performance is also a big focus for Windows 11. Windows updates are 40 percent smaller and more efficient as they now happen in the background. Hopefully that will mean Windows 11 doesn’t disturb you in the middle of work.
+
+Microsoft is also integrating Microsoft Teams directly into Windows 11 for consumers. Teams is integrated directly into the taskbar, allowing Windows 11 users to call friends, family, or co-workers. It’s clear that this is a big shift away from Skype, which was bundled as part of Windows 10, and there’s even a universal mute button in the system tray so you can easily mute your microphone across all apps.
